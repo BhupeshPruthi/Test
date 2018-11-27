@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VYAKS7W7VC.com.oraclecorp.internal.ent2.pgbu.unifier",
+        "paths": [ "NOT /e/*", "*", "/", “/archives/201?/* ]
+      }
+    ]
+  }
+}
